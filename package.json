@@ -1,0 +1,7 @@
+{
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "sequelize": "^6.6.5"
+    }
+}
